@@ -1,4 +1,4 @@
-# ⚔️ Pía Correa Brenni
+# ⚔️ Pía Correa 
 
 ![Zagreo](https://media.giphy.com/media/rgRvPL6dRJ1PzHen6h/giphy.gif)
 
@@ -6,7 +6,7 @@
 "The House always wins... but so do good algorithms"
 ```
 
-Bienvenido a mi rincón del inframundo digital 🔥
+Bienvenides a mi rincón del inframundo 🔥
 
 ---
 
@@ -28,7 +28,7 @@ Full-stack developer + Marketing en **VetaSearch** para la feria. Metaheurístic
 ## 🎮 Proyectos Actuales
 
 ### **VetaSearch** 
-Llevando una idea a realidad para la feria. Full-stack + marketing = caos controlado pero funcional.
+Llevando una idea a realidad en la feria de software (13 de noviembre). Full-stack + marketing = caos controlado pero funcional.
 
 ---
 
