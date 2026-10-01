@@ -1,18 +1,22 @@
 # ⚔️ Pía Correa 
 
+<div align="center">
+
 ![Zagreo](https://media.giphy.com/media/rgRvPL6dRJ1PzHen6h/giphy.gif)
+
+</div>
 
 ```
 "The House always wins... but so do good algorithms"
 ```
 
-Bienvenides a mi rincón del inframundo 🔥
+Bienvenido a mi rincón del inframundo 🔥
 
 ---
 
 ## 🎯 Quién soy
 
-Full-stack developer + Marketing en **VetaSearch** para la feria. Metaheurísticas, optimización y algoritmos.
+Full-stack developer + Marketing en **VetaSearch**. Metaheurísticas, optimización y algoritmos.
 
 ---
 
@@ -28,7 +32,7 @@ Full-stack developer + Marketing en **VetaSearch** para la feria. Metaheurístic
 ## 🎮 Proyectos Actuales
 
 ### **VetaSearch** 
-Llevando una idea a realidad en la feria de software (13 de noviembre). Full-stack + marketing = caos controlado pero funcional.
+Llevando una idea a realidad para la feria de software (13 de noviembre). Full-stack + marketing = caos controlado pero funcional.
 
 ---
 
